@@ -1,0 +1,2190 @@
+INITIALISATION : leboncoin 95 at : 04:09:42.806197
+In get_datas_from (item : City) : 'city'
+Warning with an item in : get_datas_from (item : ad_type code attribution) : 'str_ad_type'
+Warning with an item in get_datas_from (item : picture) : 'urls_large'
+Warning with an item in get_datas_from (item : picture) : 'urls_large'
+Warning with an item in : get_datas_from (item : ad_type code attribution) : 'str_ad_type'
+Warning with an item in get_datas_from (item : picture) : 'urls_large'
+Warning with an item in get_datas_from (item : Price) : 'price'
+Warning with an item in : get_datas_from (item : ad_type code attribution) : 'str_ad_type'
+Warning with an item in get_datas_from (item : picture) : 'urls_large'
+Launching Standardise for : 300 ads at 04:09:45.127347
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665800117.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665800117.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665791106.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665791106.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1635757935.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1635757935.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640218511.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640218511.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/981277608.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/981277608.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665786475.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665786475.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582816068.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582816068.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665784175.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665784175.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1638433987.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1638433987.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1621274417.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1621274417.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665769222.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665769222.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1583104949.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1583104949.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582972858.htm ]
+Error :Ad without city, set is_good parameter to false
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582972858.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665757703.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665757703.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1407183597.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning : ad without area set it to 0 to try to find area_ground with function
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1407183597.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665756510.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665756510.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665732866.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665732866.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665759090.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665759090.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665731900.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning :Ad without ad_type, trying to find in ad_title
+Warning : not found, set to cat 6 - others
+Warning : ad without area set it to 0 to try to find area_ground with function
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665731900.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1556497054.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1556497054.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662347827.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662347827.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1576915659.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1576915659.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665718684.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665718684.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665718186.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665718186.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665717369.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665717369.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612519871.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612519871.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639288647.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639288647.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1614375142.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1614375142.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1635006862.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1635006862.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1559238416.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1559238416.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612333442.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612333442.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612654681.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612654681.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1164746183.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1164746183.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665688104.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665688104.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665684889.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665684889.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1658877797.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1658877797.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1559238279.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1559238279.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665776064.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665776064.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230378.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230378.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1638363870.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1638363870.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1583124957.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1583124957.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230587.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230587.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612559415.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612559415.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665633627.htm ]
+ Info : Ad without picture, set to empty
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning :Ad without ad_type, trying to find in ad_title
+Warning : not found, set to cat 6 - others
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665633627.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665650008.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665650008.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1632846779.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1632846779.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1480978702.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1480978702.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665644243.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665644243.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640051623.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640051623.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582989331.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582989331.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665623910.htm ]
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665623910.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665619203.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665619203.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665601137.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665601137.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665617019.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665617019.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665616188.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665616188.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665613635.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665613635.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665611387.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665611387.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1623352435.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1623352435.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1553983211.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1553983211.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1625248419.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1625248419.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1623994257.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1623994257.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665603946.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665603946.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665578253.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665578253.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1655580752.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1655580752.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665584697.htm ]
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665584697.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582816310.htm ]
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582816310.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582681007.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582681007.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1620655768.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1620655768.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665573308.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665573308.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665594659.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665594659.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582815922.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582815922.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1656748792.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1656748792.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665556865.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665556865.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1455019386.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1455019386.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612430893.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612430893.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665544841.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665544841.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1646327077.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1646327077.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1651165382.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1651165382.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1645320487.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1645320487.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1606723182.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1606723182.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1624296588.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1624296588.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665555631.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665555631.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665701471.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665701471.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582052545.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1582052545.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662846611.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662846611.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612430830.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612430830.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665528347.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665528347.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665514859.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665514859.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665514577.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning : ad without area set it to 0 to try to find area_ground with function
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665514577.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665634197.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665634197.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640219487.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640219487.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665634564.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665634564.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640212581.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640212581.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045317.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045317.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639947733.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639947733.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665507974.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665507974.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665701376.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665701376.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612356926.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612356926.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1556764881.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1556764881.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1635006944.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1635006944.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665487528.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665487528.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665574502.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665574502.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1663850109.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1663850109.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665557487.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665557487.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1655597332.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1655597332.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1647650855.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1647650855.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1583917890.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1583917890.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665451821.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665451821.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1604655681.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1604655681.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665668123.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665668123.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640219494.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640219494.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640009781.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning : ad without area set it to 0 to try to find area_ground with function
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640009781.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665634266.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665634266.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665656706.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665656706.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1644792875.htm ]
+ Info : Ad without picture, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning :Ad without ad_type, trying to find in ad_title
+Warning : not found, set to cat 6 - others
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1644792875.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637908202.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637908202.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1621021604.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1621021604.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665472725.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665472725.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1569124968.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1569124968.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1631177510.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1631177510.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639950711.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639950711.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665590975.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665590975.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1597012200.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1597012200.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640889473.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640889473.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1623354486.htm ]
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1623354486.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230436.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230436.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1618361318.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1618361318.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665405517.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665405517.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665410898.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665410898.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1506055489.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1506055489.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639916826.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning : ad without area set it to 0 to try to find area_ground with function
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639916826.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665610818.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665610818.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1630888053.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1630888053.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1660733144.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1660733144.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1521318290.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1521318290.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1619223150.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1619223150.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1493147121.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1493147121.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1405136112.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1405136112.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1619230354.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1619230354.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1602963260.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1602963260.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1657281460.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning :Ad without ad_type, trying to find in ad_title
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1657281460.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665340585.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665340585.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1569217593.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1569217593.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1650971088.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1650971088.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1656839225.htm ]
+ Info : Ad without picture, set to empty
+Error : Ad without price, set to 0
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+Warning : ad without area set it to 0 to try to find area_ground with function
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1656839225.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230637.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230637.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665333194.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665333194.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662913616.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662913616.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665377327.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665377327.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1603629274.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1603629274.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1649565420.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1649565420.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662676634.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662676634.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1606016698.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1606016698.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1647155661.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1647155661.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665551044.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665551044.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640134900.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640134900.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366301.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366301.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665354433.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665354433.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640219273.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640219273.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665329236.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning :Ad without ad_type, trying to find in ad_title
+Warning : not found, set to cat 6 - others
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665329236.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1613326035.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1613326035.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045109.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045109.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665584458.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665584458.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1645161305.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1645161305.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637433880.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637433880.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640078150.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640078150.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364853.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364853.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665702530.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665702530.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366891.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366891.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665347946.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665347946.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1455034067.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1455034067.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366284.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366284.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1623641651.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1623641651.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364748.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364748.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665594352.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665594352.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665436597.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665436597.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665701905.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665701905.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665336842.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning :Ad without ad_type, trying to find in ad_title
+Warning : not found, set to cat 6 - others
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665336842.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1655878495.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1655878495.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1654160461.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1654160461.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366833.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366833.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640106592.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640106592.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364585.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364585.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366666.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366666.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366360.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366360.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665330401.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665330401.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665469510.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665469510.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230430.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640230430.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366495.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366495.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1638889975.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1638889975.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640046932.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640046932.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639942231.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639942231.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1663145159.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1663145159.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1659029183.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1659029183.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640043515.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640043515.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637780754.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637780754.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364948.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364948.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1656683496.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1656683496.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665642875.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665642875.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1583112656.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1583112656.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640009878.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640009878.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665309908.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665309908.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364720.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665364720.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366751.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366751.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640010072.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640010072.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639911192.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639911192.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366937.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665366937.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1658909084.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1658909084.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665572092.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665572092.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640106334.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640106334.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665596670.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665596670.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1630476824.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1630476824.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640229905.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640229905.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1629251364.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1629251364.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1625324803.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1625324803.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1634618479.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1634618479.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665306579.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665306579.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665362490.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665362490.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639849811.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639849811.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1634338443.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1634338443.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639478692.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639478692.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639972839.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639972839.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045745.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045745.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612205950.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612205950.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1537442064.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1537442064.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1635794461.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1635794461.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1565205154.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1565205154.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639940489.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639940489.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1604066775.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1604066775.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612284801.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612284801.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045495.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045495.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612166364.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612166364.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640106645.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640106645.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045183.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045183.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045238.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640045238.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612177079.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612177079.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612178292.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612178292.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612238610.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning : ad without area set it to 0 to try to find area_ground with function
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612238610.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639981236.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639981236.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665274205.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665274205.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1601360675.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1601360675.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1632266916.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1632266916.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640042238.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640042238.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1611929446.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1611929446.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665264337.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665264337.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1600639727.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1600639727.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1611929614.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1611929614.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665278485.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665278485.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640044515.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1640044515.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612176987.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612176987.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665278360.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665278360.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1632809963.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1632809963.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665294291.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665294291.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637973729.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637973729.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665239738.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665239738.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1660445387.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1660445387.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612025971.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612025971.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612175007.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612175007.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662537711.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1662537711.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665199274.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665199274.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1649229468.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1649229468.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665277628.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665277628.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665176971.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665176971.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612284758.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612284758.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665158783.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665158783.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665283069.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665283069.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612177019.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612177019.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612177393.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612177393.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665181723.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665181723.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1649208944.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1649208944.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665283341.htm ]
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665283341.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665167489.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665167489.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665283045.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665283045.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1611961761.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1611961761.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665169837.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665169837.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1642745214.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1642745214.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665156642.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665156642.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637657279.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+Warning :Ad without ad_type, trying to find in ad_title
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1637657279.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612284668.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1612284668.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1611926919.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1611926919.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665135142.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665135142.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665168071.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665168071.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665168067.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665168067.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1630354530.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1630354530.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665282959.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665282959.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665168121.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665168121.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665278039.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665278039.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665283031.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665283031.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665098515.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665098515.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665172190.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665172190.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665294280.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665294280.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665067105.htm ]
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665067105.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665286297.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665286297.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665055872.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665055872.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665168373.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665168373.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665202756.htm ]
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+info :Area attribution for house : launching Get_area_from_desc()
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665202756.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665048686.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665048686.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639741504.htm ]
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1639741504.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665294247.htm ]
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665294247.htm ]
+[Starting standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665031810.htm ]
+ Info : Ad without picture, set to empty
+info :Ad without cnt_room, set to default value 0
+info :Ad without dpe, set to empty
+info :Ad without ges, set to empty
+info :Ad without buildable_status or not str, set to empty
+info :Ad without seller_phone, set to empty
+info :ad without area_second, set to 0
+[End standardise for  : https://www.leboncoin.fr/ventes_immobilieres/1665031810.htm ]
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665800117.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665791106.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1635757935.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640218511.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/981277608.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665786475.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1582816068.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665784175.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1638433987.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1621274417.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665769222.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1583104949.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665757703.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1407183597.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665756510.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665732866.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665759090.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665731900.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1556497054.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1662347827.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1576915659.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665718684.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665718186.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665717369.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1612519871.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1639288647.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1614375142.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1635006862.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1559238416.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1612333442.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612654681.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1164746183.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665688104.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665684889.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1658877797.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1559238279.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1665776064.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640230378.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1638363870.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1583124957.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640230587.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1612559415.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665633627.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665650008.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1632846779.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1480978702.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665644243.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640051623.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1582989331.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665623910.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665619203.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665601137.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665617019.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665616188.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665613635.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665611387.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1623352435.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1553983211.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1625248419.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1623994257.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665603946.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665578253.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1655580752.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665584697.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1582816310.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1582681007.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1620655768.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665573308.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665594659.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1582815922.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1656748792.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665556865.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1455019386.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612430893.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665544841.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1646327077.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1651165382.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1645320487.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1606723182.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1624296588.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665555631.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665701471.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1582052545.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1662846611.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612430830.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665528347.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665514859.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665514577.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665634197.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640219487.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665634564.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640212581.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640045317.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639947733.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665507974.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665701376.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1612356926.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1556764881.htm
+[NEW]https://www.leboncoin.fr/ventes_immobilieres/1635006944.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665487528.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665574502.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1663850109.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665557487.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1655597332.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1647650855.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1583917890.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665451821.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1604655681.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665668123.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640219494.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640009781.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665634266.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665656706.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1644792875.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1637908202.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1621021604.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665472725.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1569124968.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1631177510.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639950711.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665590975.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1597012200.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640889473.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1623354486.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640230436.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1618361318.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665405517.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665410898.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1506055489.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639916826.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665610818.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1630888053.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1660733144.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1521318290.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1619223150.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1493147121.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1405136112.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1619230354.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1602963260.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1657281460.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665340585.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1569217593.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1650971088.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1656839225.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640230637.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665333194.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1662913616.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665377327.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1603629274.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1649565420.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1662676634.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1606016698.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1647155661.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665551044.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640134900.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366301.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665354433.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640219273.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665329236.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1613326035.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640045109.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665584458.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1645161305.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1637433880.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640078150.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665364853.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665702530.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366891.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665347946.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1455034067.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366284.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1623641651.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665364748.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665594352.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665436597.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665701905.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665336842.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1655878495.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1654160461.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366833.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640106592.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665364585.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366666.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366360.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665330401.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665469510.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640230430.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366495.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1638889975.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640046932.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639942231.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1663145159.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1659029183.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640043515.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1637780754.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665364948.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1656683496.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665642875.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1583112656.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640009878.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665309908.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665364720.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366751.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640010072.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639911192.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665366937.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1658909084.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665572092.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640106334.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665596670.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1630476824.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640229905.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1629251364.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1625324803.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1634618479.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665306579.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665362490.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639849811.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1634338443.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639478692.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639972839.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640045745.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612205950.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1537442064.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1635794461.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1565205154.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639940489.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1604066775.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612284801.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640045495.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612166364.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640106645.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640045183.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640045238.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612177079.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612178292.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612238610.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639981236.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665274205.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1601360675.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1632266916.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640042238.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1611929446.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665264337.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1600639727.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1611929614.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665278485.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1640044515.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612176987.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665278360.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1632809963.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665294291.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1637973729.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665239738.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1660445387.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612025971.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612175007.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1662537711.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665199274.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1649229468.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665277628.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665176971.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612284758.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665158783.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665283069.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612177019.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612177393.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665181723.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1649208944.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665283341.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665167489.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665283045.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1611961761.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665169837.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1642745214.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665156642.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1637657279.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1612284668.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1611926919.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665135142.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665168071.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665168067.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1630354530.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665282959.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665168121.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665278039.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665283031.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665098515.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665172190.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665294280.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665067105.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665286297.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665055872.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665168373.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665202756.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665048686.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1639741504.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665294247.htm
+[ALREADY IN DATABASE]https://www.leboncoin.fr/ventes_immobilieres/1665031810.htm
+[RAPPORT]
+[NEW ADS : 33]
+[ADS ALREADY IN DATABASE : 266]
+[ADS NOT GOOD : 1]
+[/RAPPORT]
+END : 04:09:48.942618
+Starting upload log file ...
