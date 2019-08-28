@@ -20,3 +20,11 @@ with open('Leboncoin_6_9.log.txt') as file:
             line.find('04')  # 35
             departmentNumber = line[27:29]
             executionHour = line[35:50]
+
+# On recherche dans les 15 dernières lignes du fichier une heure, si dispo on le stock dans une variable
+
+    fichier = deque(file, maxlen=15)
+    for ligne in fichier:
+        if ligne.startswith('END'):
+            date = ligne[6:21]
+            print(date)
